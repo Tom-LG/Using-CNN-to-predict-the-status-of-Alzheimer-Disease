@@ -1,6 +1,6 @@
 # Using-CNN-to-predict-the-status-of-Alzheimer-Disease
 
-This project utilizes a dataset of MRI brain images from patients at different stages of Alzheimer's disease, sourced from Kaggle: https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset. 
+This project utilizes a dataset of MRI brain images from patients at different stages of Alzheimer's disease, sourced from Kaggle: [https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset.](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images) 
 
 The dataset classifies patients into four categories:
 - Class 1: Mild Demented
